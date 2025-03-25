@@ -1,0 +1,20 @@
+{
+    "email-classification-poc": {
+      "data": {},
+      "scripts": {
+        "fetch_emails.py": "",
+        "classify_emails.py": "",
+        "store_emails.py": "",
+        "scheduler.py": "",
+        "train_model.py": ""
+      },
+      "config": {
+        "settings.py": ""
+      },
+      "models": {
+        "email_classifier.pkl": ""
+      },
+      "requirements.txt": "",
+      "README.md": ""
+    }
+  }
